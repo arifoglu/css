@@ -1,0 +1,32 @@
+#ground
+{
+    background-color: red;
+    width: 512px;
+    height: 512px;
+    position:absolute;
+}
+/*top rectangle*/
+#first
+{
+    background-color:white;
+    width: 96px;
+    height: 320px;
+    position: absolute;
+    top: 96px;
+    bottom: 96px;
+    right: 208px;
+    left: 208px;
+
+}
+/*bottom rectangle */
+#second
+{
+    background-color:white;
+    width: 320px;
+    height: 96px;
+    position:absolute;
+    right:96px;
+    left: 96px;
+    top: 208px;
+    bottom: 208px;
+}
