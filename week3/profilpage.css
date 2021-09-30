@@ -1,0 +1,211 @@
+/*header*/
+section
+{
+    background-color: gray;
+    width: 1400px;
+    height: 50px;
+}
+#rightcorner
+{
+    position: absolute;
+    right: 60px;
+    margin-top: 15px;
+    color: black;
+    letter-spacing: 4px;
+    text-decoration: none;
+}
+#leftcorner
+{
+    position:absolute;
+    left: 40px;
+    margin-top: 15px;
+    color: black;
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+/*navbar section*/
+#navbar
+{
+    background-color:darkgray;
+    text-align: center;
+    width: 1400px;
+    height: 50px; 
+    text-transform:uppercase; 
+    letter-spacing: 10px;
+}
+/*main section*/
+#mainscreen
+{
+    background-color:darkgray;
+    width: 1400px;
+    height: 500px;
+}
+.navlink:hover
+{
+    color: black;
+    background-color:white;
+}
+nav>#first
+{
+    color:gray;
+}
+nav>#second
+{
+    color: gray;
+}
+nav>#thirth
+{
+    color: gray;
+}
+aside
+{
+    background-color:darkgray;
+    border: 1px solid;
+    width: 300px;
+    height: 500px;
+    position:absolute;
+    float: left; 
+}
+#leftside
+{
+    left: 10px;
+    border: none;
+    background-image: linear-gradient(gray,darkgray);
+}
+#justicescale
+{
+    width:240px; 
+    height: 480px;
+    filter:opacity(0.3);
+}
+#rightside
+{
+    right: 40px;
+    border: none;
+    background-image: linear-gradient(gray,darkgray);
+}
+.profil_image
+{
+    width: 220px;
+    height: 220px;
+    filter: blur(3px);
+}
+h1{
+    position: relative;
+    left: 40px;
+}
+.icon
+{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 40px; 
+}
+span
+{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 50px;  
+}
+.social-media
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset
+{
+  border: none;
+  width:700px ;
+  height:300px ;
+  position: absolute;
+  left: 350px;
+  margin-top: 150px; 
+}
+#back
+{
+    width:700px;
+    height: 500px;
+    position: absolute;
+    left: 350px;
+    opacity: 0.1;
+}
+
+details:hover
+{
+background-color: white;
+cursor: pointer;
+}
+#subfieldset1
+{
+    border: none;
+    width: 200px;
+    height: 250px;
+    position:absolute;
+    float: left;
+    left: 10px; 
+    margin-top: 20px; 
+}
+li:hover
+{
+    background-color: white;
+}
+li:first-child
+{
+    color:gray;
+}
+li:nth-child(2)
+{
+    color:gray
+}
+li:last-child
+{
+    text-transform:capitalize;
+    color:slategray;
+}
+#subfieldset2
+{
+    border:none;
+    width: 200px;
+    height: 250px;
+    position:absolute;
+    float: left;
+    left: 245px;
+    margin-top: 20px;  
+}
+#subfieldset3
+{
+    border: none;
+    width: 200px;
+    height: 250px;
+    position:absolute;
+    float: left;
+    left: 480px; 
+    margin-top: 20px; 
+}
+
+/*footer*/
+
+#foot
+{
+    background-color:gray;
+    width: 1400px;
+    height: 50px;  
+}
+#bottomline
+{
+    text-align: right;
+    opacity: 0.5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    margin-top: 20px;
+    right: 60px
+}
+address
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    opacity: 0.5;
+    position: absolute;
+    left: 40px;
+}
+/*footer*/
