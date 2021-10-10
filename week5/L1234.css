@@ -7,7 +7,7 @@ main{
     padding: 0;
 
 }
-
+/*rectangle design*/
 section.purple-rectangle{
     background-color: #62306D;
     width: 40vw;
@@ -39,7 +39,7 @@ section.purple-rectangle{
     border-radius: 0px 0px 100px 100px;
     order: 3;
 }
-
+/*second rectangle design*/
 #main-rectangle{
     background-color: #E3516E;
     margin: 0;
@@ -95,7 +95,7 @@ section.purple-rectangle{
     border-width: 2px 4px 4px 2px;
     background-color:#E3516E;
   }
-
+/*third rectangle design*/
   #black-rectangle{
     background-color: #191210;
     width:40vw ;
