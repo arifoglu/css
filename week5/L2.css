@@ -1,0 +1,54 @@
+/*main rectangle design*/
+#main-rectangle{
+    background-color: #E3516E;
+    margin: 0;
+    padding: 0;
+    width:40vw ;
+    height: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+    .pink-rectangle{
+      margin-top: 20px;
+      height: 20vh;
+      width: 40vw;
+      font-size: 0; 
+    }
+    
+    .quadrant {
+      border-style:  solid;
+      border-color:#E3515E;
+      display: inline-block;
+      height: 6vh;
+      width: 6vw;
+    }
+    
+    .top-left {
+      border-top-left-radius: 100%;
+      border-width: 4px 2px 2px 4px;
+      background-color:#51B5A9;
+      border-color:#51B5A9;
+      
+    }
+    
+    .top-right {
+      border-top-right-radius: 100%;
+      border-width: 4px 4px 2px 2px;
+      background-color:#FADE8B;
+      border-color:#FADE8B;
+    }
+    
+    .bottom-left {
+      border-bottom-left-radius: 100%;
+      border-width: 2px 2px 4px 4px;
+      background-color:#F7F3D7;
+      border-color:#F7F3D7;
+      
+    }
+    
+    .bottom-right {
+      border-bottom-right-radius: 100%;
+      border-width: 2px 4px 4px 2px;
+      background-color:#E3516E;
+    }

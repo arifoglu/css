@@ -1,0 +1,30 @@
+main{
+    border: skyblue;
+    border: 1px solid dashed;
+    background-color: springgreen;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#rectangle{
+    border: steelblue;
+    border: 1px solid blueviolet;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#ust{
+    border: steelblue;
+    border: 1px solid blueviolet;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content:center;
+    align-items:center; 
+}
+

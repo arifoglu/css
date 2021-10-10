@@ -1,0 +1,135 @@
+main{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    float: left;
+    margin: 0;
+    padding: 0;
+
+}
+
+section.purple-rectangle{
+    background-color: #62306D;
+    width: 40vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+#bottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 100px 100px 0px 0px;
+    order: 2;
+    margin-bottom: 8vh;
+}
+#leftbottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 0px 0px 100px 100px;
+    order: 1;
+}
+#rightbottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 0px 0px 100px 100px;
+    order: 3;
+}
+
+#main-rectangle{
+    background-color: #E3516E;
+    margin: 0;
+    padding: 0;
+    width:40vw ;
+    height: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .pink-rectangle{
+    margin-top: 20px;
+    height: 20vh;
+    width: 40vw;
+    font-size: 0; 
+  }
+  
+  .quadrant {
+    border-style:  solid;
+    border-color:#E3515E;
+    display: inline-block;
+    height: 6vh;
+    width: 6vw;
+  }
+  
+  .top-left {
+    border-top-left-radius: 100%;
+    border-width: 4px 2px 2px 4px;
+    background-color:#51B5A9;
+    border-color:#51B5A9;
+    
+  }
+  
+  .top-right {
+    border-top-right-radius: 100%;
+    border-width: 4px 4px 2px 2px;
+    background-color:#FADE8B;
+    border-color:#FADE8B;
+  }
+  
+  .bottom-left {
+    border-bottom-left-radius: 100%;
+    border-width: 2px 2px 4px 4px;
+    background-color:#F7F3D7;
+    border-color:#F7F3D7;
+    
+  }
+  
+  .bottom-right {
+    border-bottom-right-radius: 100%;
+    border-width: 2px 4px 4px 2px;
+    background-color:#E3516E;
+  }
+
+  #black-rectangle{
+    background-color: #191210;
+    width:40vw ;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section#yellow{
+    background-color: #ECA03D;
+    border-radius:50%;
+    width:12vw ;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section#black{
+    background-color:#191210;
+    border-radius:50%;
+    width:8vw ;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section#red{
+    background-color: #84271C;
+    border-radius:50%;
+    width:4vw ;
+    height: 4vh;
+}
+
+
+
+
+

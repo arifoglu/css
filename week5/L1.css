@@ -1,0 +1,31 @@
+/*rectangle design*/
+section.purple-rectangle{
+    background-color: #62306D;
+    width: 40vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 100px 100px 0px 0px;
+    order: 2;
+    margin-bottom: 8vh;
+}
+#leftbottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 0px 0px 100px 100px;
+    order: 1;
+}
+#rightbottom-capsule{
+    background-color: #F7EC7D;
+    width: 4vw;
+    height: 4vh;
+    border-radius: 0px 0px 100px 100px;
+    order: 3;
+}
