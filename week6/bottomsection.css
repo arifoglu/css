@@ -1,0 +1,26 @@
+/*bottom section design*/
+
+#main-section-bottom{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    
+    }
+    
+    #bottom-left{
+    width: 40vw;
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    margin: 20px;
+    
+    }
+    
+    #rectangle-blue-bottom2{
+        width: 25vw;
+        height: 8vh;
+        background-color: rgba(8, 127, 206, 0.472);
+        margin: 10px;
+    }
+    
+    
