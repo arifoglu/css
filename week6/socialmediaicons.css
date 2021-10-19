@@ -1,0 +1,61 @@
+/*social media icons design*/
+#bottom-right{
+    width:40vw ;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    }
+    
+    #facebook{
+    width:5vw ;
+    height: 10vh;
+    background-color: white;
+    color: rgba(8, 127, 206, 0.472);
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+    }
+    #twitter{
+        width:5vw ;
+        height: 10vh;
+        background-color: white;
+        color: rgba(8, 127, 206, 0.472);
+        font-size: xx-large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1px;
+    }
+    
+    #linkedin{
+        width:5vw ;
+        height: 10vh;
+        background-color: white;
+        color: rgba(8, 127, 206, 0.472);
+        font-size: xx-large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1px;
+    }
+    #instagram{
+        width:5vw ;
+        height: 10vh;
+        background-color:white;
+        margin: 1px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #youtube{
+        width:5vw ;
+        height: 10vh;
+        background-color:white;
+        margin: 1px;
+    }
