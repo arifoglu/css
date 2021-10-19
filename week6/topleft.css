@@ -1,35 +1,32 @@
 /* section id=top-left*/
 #topleft{
-    width: 30vw;
+    width: 35vw;
     height: 30vh;
     background-color: white ;
-    margin: 20px;
+    margin: 1vw;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center; 
 }
-
 #rectanglebluetop{
     width:25vw ;
     height:2vh ;
     background-color:rgba(8, 127, 206, 0.472) ;
     position: relative;
-    margin: 10px;
+    margin: 1vw;
 }
 #rectanglebluemiddle{
     width:25vw ;
     height:1vh ;
     background-color:rgba(8, 127, 206, 0.472) ;
     position: relative;
-    
 }
 #rectanglebluebottom{
     width:15vw ;
     height:3vh ;
     background-color:rgba(8, 127, 206, 0.472) ;
     position: relative;
-    margin: 10px;
+    margin: 1vw;
 }

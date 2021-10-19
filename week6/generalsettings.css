@@ -8,13 +8,3 @@ main{
     display: flex;
     flex-direction: column;
 }
-
-/*all section design*/
-
-/*sectiontop layout*/
-#sectiontop{
-   width: 90vw;
-   height: 40vh;
-   display: flex;
-   float: left;
-}

@@ -1,44 +1,40 @@
 /*center square design*/
 #center-square{
-    width: 30vw;
+    width: 70vw;
     height: 30vh;
     background-color:white ;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px;
-    
+    margin: 2vw;
+    left: 3vw;
 }
-
 #circle-blue2{
     width: 3vw;
     height: 3vh;
     border-radius: 50%;
     background-color: rgba(8, 127, 206, 0.472);
     margin-bottom: 10vh;
-    left: 50px;
-    position: relative;
-    
+    left: 5vw;
+    bottom: 3vh;
+    position: relative; 
 }
-
 #triangle-blue-small{
     width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 40px solid rgba(8, 127, 206, 0.472);
+	border-left: 2vw solid transparent;
+	border-right: 2vw solid transparent;
+	border-bottom: 4vw solid rgba(8, 127, 206, 0.472);
     position: relative;
-    left: 20px;
-    top: 6px;
+    left: 1vw;
+    top: 1vh;
 }
-
 #triangle-blue-big{
     width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 50px solid rgba(8, 127, 206, 0.472);
+	border-left: 2vw solid transparent;
+	border-right: 2vw solid transparent;
+	border-bottom: 5vw solid rgba(8, 127, 206, 0.472);
     position: relative;
-    right: 10px;
 }

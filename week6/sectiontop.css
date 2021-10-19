@@ -1,0 +1,9 @@
+/*sectiontop layout*/
+#sectiontop{
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    float: left;
+ }
+
+ 

@@ -1,9 +1,9 @@
 /*section id=topright*/
 .rectanglewhite{
-    width: 19vw;
-    height: 3.5vh;
+    width: 20vw;
+    height: 4vh;
     background-color:white ;
-    margin: 20px;
+    margin: 1vw;
     position: relative;
     display: flex;
     justify-content: center;

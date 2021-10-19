@@ -1,12 +1,11 @@
 /*social media icons design*/
 #bottom-right{
-    width:40vw ;
+    width:50vw ;
     height: 10vh;
     display: flex;
     justify-content: space-between;
-    margin: 20px;
+    margin: 2vw;
     }
-    
     #facebook{
     width:5vw ;
     height: 10vh;
@@ -14,10 +13,10 @@
     color: rgba(8, 127, 206, 0.472);
     font-size:xx-large;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 1px;
     }
     #twitter{
         width:5vw ;
@@ -26,12 +25,15 @@
         color: rgba(8, 127, 206, 0.472);
         font-size: xx-large;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 1px;
     }
-    
+    img{
+        width: 3vw;
+        height:5vh ; 
+    }
     #linkedin{
         width:5vw ;
         height: 10vh;
@@ -39,23 +41,54 @@
         color: rgba(8, 127, 206, 0.472);
         font-size: xx-large;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 1px;
     }
     #instagram{
         width:5vw ;
         height: 10vh;
         background-color:white;
-        margin: 1px;
         display: flex;
         justify-content: center;
+        align-items: center;
     }
-    
+    #instagraminsidesquare{
+        width:4vw ;
+        height: 8vh;
+        border-radius: 10px;
+        background-color: rgba(8, 127, 206, 0.472);
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #instagraminsidecircle{
+        width: 3vw;
+        height: 6vh;
+        border-radius: 50%;
+        background-color: white;
+    }
     #youtube{
         width:5vw ;
         height: 10vh;
         background-color:white;
-        margin: 1px;
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+    }
+    #youtubeinsidesquare{
+        width: 4vw;
+        height: 6vh;
+        background-color: rgba(8, 127, 206, 0.472);
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #youtubeinsidetriangle{
+        border-top: 1vw solid transparent;
+        border-left: 20px solid white;
+        border-bottom: 1vw solid transparent;
     }

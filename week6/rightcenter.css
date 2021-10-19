@@ -1,39 +1,40 @@
-
 /*right center design*/
 
 #center-right-middle{
-    width: 30vw;
+    width: 100vw;
     height: 30vh;
     background-color: white;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px;
-    
+    margin: 2vw;
+    left: 11vw;
 }
 #circle-blue-right{
     width: 3vw;
     height: 3vh;
     border-radius: 50%;
     background-color: rgba(8, 127, 206, 0.472);
-    margin-bottom: 10vh;
+    left: 4vw;
+    bottom: 8vh;
     position: relative;
 }
 #triangle-blue-small-right{
     width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 40px solid rgba(8, 127, 206, 0.472);
+	border-left: 2vw solid transparent;
+	border-right: 2vw solid transparent;
+	border-bottom: 4vw solid rgba(8, 127, 206, 0.472);
+    left: 1vw;
+    top: 1vh;
     position: relative;
 }
 #triangle-blue-big-right{
     width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 50px solid rgba(8, 127, 206, 0.472);
+	border-left: 2vw solid transparent;
+	border-right: 2vw solid transparent;
+	border-bottom: 5vw solid rgba(8, 127, 206, 0.472);
     position: relative;
-
 }

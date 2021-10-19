@@ -1,20 +1,17 @@
-/*section id=top-center*/
-
+/*section id=topcenter*/
 #topcenter{
-    width: 30vw;
+    width: 35vw;
     height: 30vh;
     background-color:white ;
-    margin: 20px;
+    margin: 1vw;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
-
 #circleblue{
-width: 70px;
-height: 70px;
+width: 10vw;
+height: 10vh;
 border-radius: 50%;
 display: flex;
 justify-content: center;
@@ -22,10 +19,9 @@ align-items: center;
 background-color: rgba(8, 127, 206, 0.472);
 position: relative;
 }
-
 #trianglewhite{
-	border-top: 25px solid transparent;
+	border-top: 2vw solid transparent;
 	border-left: 50px solid white;
-	border-bottom: 25px solid transparent;
+	border-bottom: 2vw solid transparent;
     position: relative;
-}
+} 
