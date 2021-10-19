@@ -1,0 +1,31 @@
+/*section id=top-center*/
+
+#topcenter{
+    width: 30vw;
+    height: 30vh;
+    background-color:white ;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#circleblue{
+width: 70px;
+height: 70px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgba(8, 127, 206, 0.472);
+position: relative;
+}
+
+#trianglewhite{
+	border-top: 25px solid transparent;
+	border-left: 50px solid white;
+	border-bottom: 25px solid transparent;
+    position: relative;
+}
