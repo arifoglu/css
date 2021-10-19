@@ -1,0 +1,11 @@
+/*section id=topright*/
+.rectanglewhite{
+    width: 19vw;
+    height: 3.5vh;
+    background-color:white ;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
