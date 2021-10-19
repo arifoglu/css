@@ -1,0 +1,39 @@
+
+/*right center design*/
+
+#center-right-middle{
+    width: 30vw;
+    height: 30vh;
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    
+}
+#circle-blue-right{
+    width: 3vw;
+    height: 3vh;
+    border-radius: 50%;
+    background-color: rgba(8, 127, 206, 0.472);
+    margin-bottom: 10vh;
+    position: relative;
+}
+#triangle-blue-small-right{
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 40px solid rgba(8, 127, 206, 0.472);
+    position: relative;
+}
+#triangle-blue-big-right{
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid rgba(8, 127, 206, 0.472);
+    position: relative;
+
+}
