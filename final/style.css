@@ -1,0 +1,123 @@
+/*general settins*/
+*{
+    box-sizing: content-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/*layout white areas*/
+main{
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#white-main{
+    width: 100vw;
+    height: 50vh;
+    background-color: white;
+}
+
+#black-foot{
+    width: 100vw;
+    height: 50vh;
+    background-color:black;
+    color: white;
+}
+
+#first-captionline{
+    display: flex;
+    justify-content: space-between;
+    margin: 2vw;
+}
+
+#similar{
+    margin-left: 5vw;
+    font-size: small;
+}
+#seemoretop{
+    margin-right: 5vw;
+    font-size: small;
+}
+
+#first-imageline{
+    display: flex;
+    justify-content: space-around;
+    margin: 2.5vw;
+}
+#second-imageline{
+    display: flex;
+    justify-content: space-around;
+    margin: 2.5vw;
+}
+
+#second-captionline{
+    display: flex;
+    justify-content: space-between;
+    margin: 2vw;
+}
+
+#morefrombarsrind{
+    margin-left: 5vw;
+    font-size: small;
+}
+#seemorebottom{
+    margin-right: 5vw;
+    font-size: small;
+}
+
+
+img{
+    width: 15vw;
+    height: 15vh;
+}
+
+
+/*layout black areas*/
+
+
+
+
+
+#foot-details{
+    display: flex;
+    justify-content: space-between;
+    margin: 6vw;
+}
+
+#foot-quicklinks{
+    display: flex;
+    margin: 6vw;
+}
+
+#signmeup{
+    background-color: crimson;
+    color: white;
+}
+
+#footer-links{
+    display: flex;
+    justify-content: space-between;
+    margin: 6vw;
+}
+
+#footerlinkline{
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+}
+
+#footerlinkicons{
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+
+}
+
+li{
+    list-style: none;
+
+}
+
