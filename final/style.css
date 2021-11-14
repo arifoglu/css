@@ -41,7 +41,7 @@ main{
 #second-imageline{
     display: flex;
     justify-content: space-around;
-    margin: 2.5vw;
+    margin: 2.6vw;
 }
 #second-captionline{
     display: flex;
